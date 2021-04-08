@@ -1,0 +1,10 @@
+<function> -> (x,y) ((x = numeric))
+[{null = y}]
+    -> (function = y) --> (y = null)
+!<if.x.is.null)
+      [{return}] (m)
+     data <-- return(n)
+     
+    {{M}} 
+  [{data.function}]
+ ->(function,mean)
